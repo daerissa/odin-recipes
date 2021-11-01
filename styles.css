@@ -1,0 +1,35 @@
+* {
+    background-color: rgb(247, 118, 118);
+    color:white;
+}
+
+.first_header {
+    color: white;
+    text-align: center;
+    font-family: "Times new roman" sans-serif;
+    font-weight: 700;
+}
+
+li {
+    text-align: center;
+    color: white;
+    font-size: large;
+}
+
+img {
+    width: 200px;
+    height: auto;
+}
+
+.center {
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+.second_header {
+    font-size:xx-large ;
+}
+
+.third_header {
+    font-size:xx-large;
+}
